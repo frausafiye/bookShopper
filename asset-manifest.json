@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/bookShopper/static/css/main.867d8a4a.chunk.css",
+    "main.js": "/bookShopper/static/js/main.e8ea43c9.chunk.js",
+    "main.js.map": "/bookShopper/static/js/main.e8ea43c9.chunk.js.map",
+    "runtime-main.js": "/bookShopper/static/js/runtime-main.ae6a6989.js",
+    "runtime-main.js.map": "/bookShopper/static/js/runtime-main.ae6a6989.js.map",
+    "static/js/2.22f11a6b.chunk.js": "/bookShopper/static/js/2.22f11a6b.chunk.js",
+    "static/js/2.22f11a6b.chunk.js.map": "/bookShopper/static/js/2.22f11a6b.chunk.js.map",
+    "index.html": "/bookShopper/index.html",
+    "static/css/main.867d8a4a.chunk.css.map": "/bookShopper/static/css/main.867d8a4a.chunk.css.map",
+    "static/js/2.22f11a6b.chunk.js.LICENSE.txt": "/bookShopper/static/js/2.22f11a6b.chunk.js.LICENSE.txt",
+    "static/media/logo.0c555242.png": "/bookShopper/static/media/logo.0c555242.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ae6a6989.js",
+    "static/js/2.22f11a6b.chunk.js",
+    "static/css/main.867d8a4a.chunk.css",
+    "static/js/main.e8ea43c9.chunk.js"
+  ]
+}
